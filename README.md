@@ -35,16 +35,20 @@
 
 ![学生查看课程详情页](https://images.gitee.com/uploads/images/2020/1014/105412_13afd7df_5739681.png "屏幕截图.png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/1014/105431_9a373700_5739681.png "屏幕截图.png")
- **
-我的课程页面，学生查看已选的课程：** 
+
+ **我的课程页面，学生查看已选的课程：** 
 
 ![我的课程页面](https://images.gitee.com/uploads/images/2020/1014/105439_26021547_5739681.png "屏幕截图.png")
 
+
  **修改密码：** 
+
 
 ![修改密码](https://images.gitee.com/uploads/images/2020/1014/105457_a1ae4da3_5739681.png "屏幕截图.png")
 
+
  **管理员登录：** 
+
 
 ![管理员登陆](https://images.gitee.com/uploads/images/2020/1014/105515_44989962_5739681.png "屏幕截图.png")
 
@@ -56,7 +60,7 @@
 
 ![学生管理页面，实现对学生信息的增删查改操作](https://images.gitee.com/uploads/images/2020/1014/105545_75298320_5739681.png "屏幕截图.png")
  
- **课程管理页面，实现对课程的发布与更新：** ** 
+ **课程管理页面，实现对课程的发布与更新：** 
 
 ![课程管理页面，实现对课程的发布与更新](https://images.gitee.com/uploads/images/2020/1014/105627_824ea7b5_5739681.png "屏幕截图.png")
 
