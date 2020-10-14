@@ -19,7 +19,9 @@
 
 #### 软件架构
 企业库存管理系统一个基于SSM框架实现的项目，采用当前最流行的框架Spring-SpringMVC-MyBatis设计，主要是对之前用Jsp/Servlet做的一些优化，重构了整个系统，感觉还不错，学到了很多新的知识，能对SSM框架熟练的运用了。
-前端：HTML+BootStrap+CSS+Javascript		
+
+前端：HTML+BootStrap+CSS+Javascript	
+	
 后端：Spring+SpringMVC+mybatis
 
 
